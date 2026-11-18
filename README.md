@@ -1,4 +1,11 @@
-# Tiny Spanish 🇲🇽
+# Tiny Spanish 🇲🇽 (brand hub)
+
+Two separate systems, each with its own site:
+- Instagram Reels: `tiny-spanish-instagram` (https://sabaghanbarlo-hash.github.io/tiny-spanish-instagram/)
+- YouTube: `tiny-spanish-youtube` (https://sabaghanbarlo-hash.github.io/tiny-spanish-youtube/)
+
+This repo keeps the shared brand docs, cast and audit.
+
 
 *Spanish, one tiny story at a time.* Free beginner Spanish for English speakers, taught by four recurring animated characters.
 
